@@ -49,7 +49,7 @@ Script to write weblog entries to an Apache-like format
 Adds the guest account to the local admins or domain and enterprise admins group
 
 ## beaconSMS.cna
-### Author: ???
+### Author: @424f424f
 Receive SMS alert upon new beacons
 
 ## beacon_to_empire.cna
