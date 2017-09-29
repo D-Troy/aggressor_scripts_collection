@@ -180,3 +180,6 @@ Output all event and activity logs with human-readable timestamp to activitylog.
 ### Author: @vysecurity
 Bloodhound Attack Path Execution for Cobalt Strike
 
+## elevate (folder)
+### @_RastaMouse
+Exploit local priviledge escalation vulnerabilities
