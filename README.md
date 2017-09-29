@@ -101,7 +101,7 @@ Forces SMB Beacons to check-in on a specified interval
 Enable and add guest account to local admins group
 
 ## loader.cna
-### Author: ???
+### Author: @_RastaMouse 
 Loads the "elevate" directory into Cobalt Strike
 
 ## lulz.cna
@@ -175,3 +175,8 @@ Create a sticky keys backdoor
 ## timestamped_activitylog_export.cna
 ### Author: @bluescreenofjeff
 Output all event and activity logs with human-readable timestamp to activitylog.txt in your working directory
+
+## ANGRYPUPPY (folder)
+### Author: @vysecurity
+Bloodhound Attack Path Execution for Cobalt Strike
+
